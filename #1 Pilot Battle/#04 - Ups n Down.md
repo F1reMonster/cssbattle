@@ -7,6 +7,7 @@
 ## My Solution
 
 ### Normal
+
 ```html
 <p></p>
 <p></p>
@@ -16,14 +17,14 @@
 	body {
 		display: flex;
 		padding: 126 42 0;
-		background: #62306D;
+		background: #62306d;
 	}
 
 	p {
 		width: 100;
 		height: 100;
 		border-radius: 0 0 50% 50%;
-		background: #F7EC7D;
+		background: #f7ec7d;
 	}
 
 	p:nth-child(2) {
@@ -33,8 +34,11 @@
 ```
 
 ### Minimal
+
 ```html
 <p><p><p><style>body{background:#62306D;padding:126 42 0;display:flex;p{width:100;height:100;border-radius:0+0+50%+50%;;background:#F7EC7D;}p:nth-child(2){transform:scale(-1)translateY(100%)
 ```
+
 ## Score
+
 ### 666.03{189}

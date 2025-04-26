@@ -7,7 +7,7 @@
 ## My Solution
 
 ```html
-<p></p><p></p><p></p><style>body{background:#62306D;padding:126 42 0;display:flex;p{width:100;height:100;border-bottom-left-radius:53q;border-bottom-right-radius:53q;background:#F7EC7D;}p:nth-child(2){transform:scale(-1)translateY(100%)
+<p><p><p><style>body{background:#62306D;padding:126 42 0;display:flex;p{width:100;height:100;border-radius:0+0+50%+50%;;background:#F7EC7D;}p:nth-child(2){transform:scale(-1)translateY(100%)
 ```
 ## Score
-### 641.39{238}
+### 664.17{192}

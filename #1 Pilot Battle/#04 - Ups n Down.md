@@ -9,26 +9,25 @@
 ### Normal
 
 ```html
-<p></p>
-<p></p>
-<p></p>
+<a></a>
+<a q></a>
+<a></a>
 
 <style>
 	body {
-		display: flex;
-		padding: 126 42 0;
+		margin: 50;
 		background: #62306d;
 	}
 
-	p {
+	a {
 		width: 100;
 		height: 100;
-		border-radius: 0 0 50% 50%;
-		background: #f7ec7d;
+		border-radius: 1in;
+		background: #62306d linear-gradient(#0000 50%, #f7ec7d 1in);
 	}
 
-	p:nth-child(2) {
-		transform: scale(-1) translateY(100%);
+	[q] {
+		scale: -1;
 	}
 </style>
 ```
@@ -36,9 +35,9 @@
 ### Minimal
 
 ```html
-<p><p><p><style>body{background:#62306D;padding:126 42 0;display:flex;p{width:100;height:100;border-radius:0+0+50%+50%;background:#F7EC7D;}p:nth-child(2){transform:scale(-1)translateY(100%)
+<a><a q><a><style>body{background:#62306D;margin:50}a{float:left;width:100;height:200;border-radius: 1in;background:#62306D linear-gradient(#0000 50%,#F7EC7D 1in)}[q]{scale:-1
 ```
 
 ## Score
 
-### 666.03{189}
+### 675.45{175}

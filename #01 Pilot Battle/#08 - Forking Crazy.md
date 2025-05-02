@@ -9,27 +9,19 @@
 ### Normal
 
 ```html
-<p a>
-<p b>
-
+<p>
 <style>
-	* {
-		background: #6592cf;
+	body {
+		background: radial-gradient(circle at 50% 60%, #060f55 74q, #6592cf 0);
+		padding: 42 102;
 	}
-	[a] {
-		background: #060f55;
-		border-radius: 2in;
-		width: 140;
-		height: 160;
-		margin: 90 auto;
-	}
-	[b] {
+
+	p {
+		color: #060F55;
 		width: 20;
-		height: 100;
-		border-radius: 1in;
-		color: #060f55;
-		box-shadow: 127q -222q, 148q -222q #6592CF, 169q -222q, 191q -222q #6592CF, 212q -222q, 233q -222q #6592CF, 254q -222q, 191q -40q;
-		margin: -80 2;
+		height: 140;
+		border-radius: 21q;
+		box-shadow: 21q 0, 40px -32q #6592cf, 60px 0, 80px -32q #6592cf, 100px 0, 120px -32q #6592cf, 140px 0, 85q 160q;
 	}
 </style>
 ```
@@ -37,9 +29,9 @@
 ### Minimal
 
 ```html
-<p a><p b><style>*{background:#6592CF;}[a]{background:#060F55;border-radius:2in;width:140;height:160;margin:90 auto;}[b]{width:20;height:110;border-radius:1in;color:#060F55;box-shadow:127q -222q,148q -222q#6592CF,169q -222q,191q -222q#6592CF,212q -222q,233q -222q#6592CF,254q -222q,191q -40q;margin:-80 2
+<p><style>body{background:radial-gradient(circle at 50% 60%,#060f55 74q,#6592cf 0);padding:42 102}p{color:060F55;width:20;height:140;border-radius:21q;box-shadow:21q 0,40px -32q#6592cf,60px 0,80px -32q#6592cf,100px 0,120px -32q#6592cf,140px 0,85q 160q
 ```
 
 ## Score
 
-### 622.07 {304}
+### 636.22 {252}

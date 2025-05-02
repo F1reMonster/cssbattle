@@ -10,41 +10,21 @@
 
 ```html
 <p a>
-<p b>
-<p c>
 <style>
-  & {
-    background:#191210;
-    p {
-      position: absolute;
-      border-radius: 50%;
-    }
-    [a], [c] {
-      width: 60;
-      height: 60;
-      border-width: 22q;
-      border-style: solid;
-      border-color: #191210 #191210 #ECA03D #ECA03D;
-    }
-    [a] {
-      top: 84;
-      left: 50;
-      rotate: -45deg;     
-    }
-    [c] {
-      top: 84;
-      right: 50;
-      rotate: 135deg;
-    }
-    [b] {
-      z-index: 2;
-      width: 140;
-      height: 140;
-      top: 64;
-      left: 130;
-      background: radial-gradient(circle, #84271C 26q, #191210 26q, #191210 53q, #ECA03D 53q);
-    }
-  }
+	body {
+		background: radial-gradient(circle, #84271c 25px, 0, #191210 50px, 0, #eca03d 70px, #191210 0);
+	}
+	p {
+		margin: 0 42;
+		width: 100;
+		height: 50;
+		border-radius: 0 0 1in 1in;
+		background: radial-gradient(at 50% 0, #0000 30px, #eca03d 0);
+	}
+	[a] {
+		margin: 100 242 0;
+		scale: -1;
+	}
 </style>
 
 ```
@@ -52,10 +32,10 @@
 ### Minimal
 
 ```html
-<p a><p b><p c><style>&{background:#191210;p{position:absolute;border-radius:50%;}[a],[c]{width:60;height:60;border-width:22q;border-style:solid;border-color:#191210#191210#ECA03D#ECA03D;}[a]{top:84;left:50;rotate:-45deg;}[c]{top:84;right:50;rotate:135deg;}[b]{z-index:2;width:140;height:140;top:64;left:130;background:radial-gradient(circle,#84271C 26q,#191210 26q,#191210 53q,#ECA03D 53q)
+<p a><p><style>body{background:radial-gradient(circle,#84271c 25px,0,#191210 50px,0,#eca03d 70px,#191210 0)}p{margin:0 42;width:100;height:50;border-radius:0 0 1in 1in;background:radial-gradient(at 50% 0,#0000 30px,#eca03d 0)}[a]{margin:100 242 0;scale:-1
 
 ```
 
 ## Score
 
-### 609.72 {390}
+### 635.2 {255}

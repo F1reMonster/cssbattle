@@ -1,4 +1,4 @@
-# 6.Missing Slice
+# 6 - Missing Slice
 
 ## Objective
 
@@ -24,4 +24,4 @@
 
 ## Score
 
-### 661.18{197}
+### 721.52 {125}

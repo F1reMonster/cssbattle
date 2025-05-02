@@ -9,27 +9,17 @@
 ### Normal
 
 ```html
-<p>
-	<style>
-		* {
-			background: #e3516e;
-		}
-
-		p {
-			margin: 50 auto;
-			border-radius: 50%;
-			width: 200;
-			height: 200;
-			background: conic-gradient(#fade8b 0deg 90deg, #e3516e 90deg 180deg, #f7f3d7 180deg 270deg, #51b5a9 270deg 360deg);
-		}
-	</style>
-</p>
+<style>
+	* {
+		background: radial-gradient(3cm, #0000 88%, #e3516e 0), conic-gradient(#fade8b 25%, #e3516e 0 50%, #f7f3d7 0 75%, #51b5a9 0);
+	}
+</style>
 ```
 
 ### Minimal
 
 ```html
-<p><style>*{background:#E3516E;p{width:200;height:200;margin:50 auto;border-radius:50%;background:conic-gradient(#FADE8B 0deg 90deg,#E3516E 90deg 180deg,#F7F3D7 180deg 270deg,#51B5A9 270deg 360deg)
+<style>*{background:radial-gradient(3cm,#0000 88%,#E3516E 0),conic-gradient(#FADE8B 25%,#E3516E 0 50%,#F7F3D7 0 75%,#51B5A9 0
 ```
 
 ## Score

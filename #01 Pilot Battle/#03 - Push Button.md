@@ -7,7 +7,7 @@
 ## My Solution
 
 ```html
-<a><b><style>body{background:#6592CF;padding:67+42;a{width:100%;height:100%;background:#243D83;display:flex;align-items:center;justify-content:center;overflow:clip;b{width:50;height:50;background:#EEB850;border-radius:50%;outline:53q solid #6592CF;border:53q solid #243D83;
+<style>*{margin:75 50;background:radial-gradient(1q,#EEB850 26q,0,#243D83 79q,0,#0000 132q,#243D83)no-repeat#6592CF
 ```
 ## Score
-### 629.09 {275}
+### 733.67 {115}

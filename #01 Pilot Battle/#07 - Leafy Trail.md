@@ -6,6 +6,10 @@
 
 ## My Solution
 
+### Screenshot
+
+![7 - Leafy Trail](https://i.imgur.com/q18WXfg.jpeg)
+
 ### Minimal
 
 ```html

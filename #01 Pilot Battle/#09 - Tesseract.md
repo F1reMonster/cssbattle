@@ -6,6 +6,10 @@
 
 ## My Solution
 
+### Screenshot
+
+![9 - Tesseract](https://i.imgur.com/BUD3DmP.jpeg)
+
 ### Minimal
 
 ```html
@@ -14,4 +18,4 @@
 
 ## Score
 
-### 693.95 {152}
+### 694.85 {151}

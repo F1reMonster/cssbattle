@@ -6,6 +6,9 @@
 
 ## My Solution
 
+### Sceenshot
+![118 - Donkey Kong](https://i.imgur.com/RH1M5gJ.jpeg)
+
 ### Normal
 
 ```html
@@ -53,4 +56,4 @@
 
 ## Score
 
-### 624.04 {295}
+### 624.5 {293}

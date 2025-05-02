@@ -6,6 +6,9 @@
 
 ## My Solution
 
+### Sceenshot
+![13 - Totally Triangle](https://i.imgur.com/HBUqEH8.jpeg)
+
 ### Normal
 
 ```html

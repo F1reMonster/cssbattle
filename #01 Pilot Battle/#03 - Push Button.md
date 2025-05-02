@@ -6,6 +6,12 @@
 
 ## My Solution
 
+### Screenshot
+
+![3 - Push Button](https://i.imgur.com/r272USf.jpeg)
+
+### Minimal
+
 ```html
 <style>*{margin:75 50;background:radial-gradient(1q,#EEB850 26q,0,#243D83 79q,0,#0000 132q,#243D83)no-repeat#6592CF
 ```

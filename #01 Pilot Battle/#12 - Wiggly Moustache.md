@@ -7,7 +7,7 @@
 ## My Solution
 
 ### Sceenshot
-![screenshot](https://i.imgur.com/sj2ab8B.jpeg)
+![12 - Wiggly Moustache](https://i.imgur.com/sj2ab8B.jpeg)
 
 ### Normal
 

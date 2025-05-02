@@ -1,4 +1,4 @@
-# 122.Tetris
+# 122 - Tetris
 
 ## Objective
 
@@ -6,16 +6,19 @@
 
 ## My Solution
 
+### Sceenshot
+![122 - Tetris](https://i.imgur.com/4k32s0R.jpeg)
+
 ### Normal
 
 ```html
 <ul>
-	<li><li><li><li><li r><li>
-	<li><li><li><li r><li r><li>
-	<li y><li y><li><li r><li><li>
-	<li y><li y><li r><li><li v><li>
-	<li r><li r><li r><li b><li v><li v>
-	<li y><li b><li b><li b><li v><li b>
+	<a><a><a><a><a r><a>
+	<a><a><a><a r><a r><a>
+	<a y><a y><a><a r><a><a>
+	<a y><a y><a r><a><a v><a>
+	<a r><a r><a r><a b><a v><a v>
+	<a y><a b><a b><a b><a v><a b>
 </ul>
 
 <style>
@@ -23,20 +26,14 @@
 		background: #173889;
 	}
 
-	ul,
-	li {
-		list-style: none;
-		padding: 0;
-	}
-
-	ul {
+	p {
 		display: grid;
 		grid-template-columns: repeat(6, 1fr);
 		margin: -8 42;
 		gap: 6px;
 	}
 
-	li {
+	a {
 		width: 45;
 		height: 45;
 	}
@@ -59,9 +56,9 @@
 ### Minimal
 
 ```html
-<ul><li><li><li><li><li r><li><li><li><li><li r><li r><li><li y><li y><li><li r><li><li><li y><li y><li r><li><li v><li><li r><li r><li r><li b><li v><li v><li y><li b><li b><li b><li v><li b></ul><style>*{background: #173889;ul,li{list-style:none;padding:0;}ul{display:grid;grid-template-columns: repeat(6, 1fr);margin:-8 42;gap:6px;}li{width:45;height:45;}[r]{background:#EE4F63;}[b]{background:#2CE1EA}[y]{background:#F8DA37}[v]{background:#B069F7
+<p><a><a><a><a><a r><a><a><a><a><a r><a r><a><a y><a y><a><a r><a><a><a y><a y><a r><a><a v><a><a r><a r><a r><a b><a v><a v><a y><a b><a b><a b><a v><a b><style>*{background:#173889;p{display:grid;grid-template-columns:repeat(6,1fr);margin:-8 42;gap:6px;}a{width:45;height:45;}[r]{background:#EE4F63;}[b]{background:#2CE1EA}[y]{background:#F8DA37}[v]{background:#B069F7
 ```
 
 ## Score
 
-### 605.49{450}
+### 611.76{370}

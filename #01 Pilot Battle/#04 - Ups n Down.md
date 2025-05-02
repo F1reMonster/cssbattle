@@ -6,6 +6,10 @@
 
 ## My Solution
 
+### Screenshot
+
+![4 - Ups n Downs](https://i.imgur.com/STu1EJw.jpeg)
+
 ### Normal
 
 ```html

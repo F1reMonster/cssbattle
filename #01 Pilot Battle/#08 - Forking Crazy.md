@@ -6,6 +6,10 @@
 
 ## My Solution
 
+### Screenshot
+
+![8 - Forking Crazy](https://i.imgur.com/aHMXo5q.jpeg)
+
 ### Normal
 
 ```html
@@ -34,4 +38,4 @@
 
 ## Score
 
-### 636.22 {252}
+### 636.57 {251}

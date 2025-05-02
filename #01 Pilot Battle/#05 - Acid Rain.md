@@ -6,6 +6,10 @@
 
 ## My Solution
 
+### Screenshot
+
+![5 - Acid Rain](https://i.imgur.com/ML0HHee.jpeg)
+
 ### Minimal
 
 ```html
@@ -15,4 +19,4 @@
 
 ## Score
 
-### 679.9 {169}
+### 680.66 {168}

@@ -6,6 +6,10 @@
 
 ## My Solution
 
+### Screenshot
+
+![6 - Missing Slice](https://i.imgur.com/3kzW7qy.jpeg)
+
 ### Normal
 
 ```html

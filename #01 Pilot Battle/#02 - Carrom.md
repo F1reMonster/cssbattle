@@ -6,8 +6,14 @@
 
 ## My Solution
 
+### Screenshot
+
+![2 - Carrom](https://i.imgur.com/hxA5xD0.jpeg)
+
+### Minimal
+
 ```html
 <body bgcolor=62375 style=margin:0+50;border:dashed+53q#fdc57b;clip-path:inset(53q+0>
 ```
 ## Score
-### 771.26 {89}
+### 777.92 {85}

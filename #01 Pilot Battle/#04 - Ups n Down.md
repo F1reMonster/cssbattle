@@ -1,4 +1,4 @@
-# 4.Ups n Downs
+# 4 - Ups n Downs
 
 ## Objective
 
@@ -35,9 +35,9 @@
 ### Minimal
 
 ```html
-<a><a q><a><style>body{background:#62306D;margin:50}a{float:left;width:100;height:200;border-radius: 1in;background:#62306D linear-gradient(#0000 50%,#F7EC7D 1in)}[q]{scale:-1
+<a><a q><a><style>body{background:#62306D;margin:50}a{float:left;width:100;height:200;border-radius:1in;background:#62306D linear-gradient(#0000 50%,#F7EC7D 1in)}[q]{scale:-1
 ```
 
 ## Score
 
-### 675.45{175}
+### 676.18{174}

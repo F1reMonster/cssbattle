@@ -7,7 +7,7 @@
 ## My Solution
 
 ### Sceenshot
-![screenshot](https://i.imgur.com/IhTelQP.jpeg)
+![screenshot](https://i.imgur.com/sj2ab8B.jpeg)
 
 ### Normal
 
@@ -48,9 +48,9 @@
 ### Minimal
 
 ```html
-<a><a a><a b><p><style>&{background:#F5D6B4;margin:142 62}p{width:20;height:20;border-radius: 50%;color:D86F45;box-shadow:-170q -27q,85q -27q}a{float:left;width:100;height:50;border-radius: 0 0 80q 80q;background:radial-gradient(at 50% 0,#0000 30px,#D86F45 0)}[a]{margin:-50 -20;scale:-1} [b]{translate:64q
+<a><a a><a b><p><style>&{background:#F5D6B4;margin:142 62}p{width:20;height:20;border-radius: 50%;color:D86F45;box-shadow:-170q -27q,85q -27q}a{float:left;width:100;height:50;border-radius: 0 0 80q 80q;background:radial-gradient(at 50% 0,#0000 30px,#D86F45 0)}[a]{margin:-50 -20;scale:-1}[b]{translate:64q
 ```
 
 ## Score
 
-### 620.64 {311}
+### 620.84 {310}

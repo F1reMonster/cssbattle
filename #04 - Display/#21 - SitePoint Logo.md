@@ -32,14 +32,14 @@
 		height: 80;
 		background: #f2994a;
 		color: #2d9cdb;
-		box-shadow: 106Q 40Q;
+		box-shadow: 106q 40q;
 	}
 	[a] {
 		top: 145;
 		height: 30;
 		width: 80;
-		border-radius: 0 8Q 0 8Q;
-		box-shadow: 53Q -55Q;
+		border-radius: 0 8q 0 8q;
+		box-shadow: 53q -55q;
 	}
 </style>
 ```

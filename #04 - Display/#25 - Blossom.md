@@ -12,7 +12,7 @@
 
 ### Watch video
 
-[![25 - Blossom](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)])
+[![25 - Blossom](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://youtu.be/fopRsIwiz_8)
 
 ### Normal
 
@@ -42,15 +42,15 @@
 ### Minimal
 
 ```html
-<p><p a><style>&{background:#998235;margin:172 102}p{width:80;height:60;border-radius:0 53q;color:1A4341;background:#F3AC3C;box-shadow:0 -85q,0 -105q,0 -127q}[a]{margin:-196 100;scale:1 -1
+<p><p a><style>&{background:#998235;margin:172 102}p{width:80;height:60;border-radius:0 53q;color:1A4341;background:#F3AC3C;box-shadow:0-85q,0-105q,0-127q}[a]{margin:-196 100;scale:1-1
 ```
 
-## Leaderboard
+## Leaderboard #25
 
 ### 2025/05/12
 
-![25 - Blossom](https://i.imgur.com/zDUhBPF.jpeg)
+![25 - Blossom](https://i.imgur.com/dPQGimv.jpeg)
 
 ## Score
 
-### 666.66 {188}
+### 669.25 {184}

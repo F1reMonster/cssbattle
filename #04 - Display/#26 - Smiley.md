@@ -10,9 +10,9 @@
 
 ![26 - Smiley](https://i.imgur.com/EDET4f5.jpeg)
 
-<!-- ### Watch video
+### Watch video
 
-[![26 - Smiley](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)]() -->
+[![26 - Smiley](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://youtu.be/wLsqQuvy8B0)
 
 ### Normal
 
